@@ -273,7 +273,7 @@ export const sendEmail = async ({ to, cc, bcc, subject, html, attachments = [] }
 
     // send mail with defined transport object
     let info = await transporter.sendMail({
-        from: `"Route Academy" <${process.env.gmail}>`, // sender address
+        from: `"Ecomm" <${process.env.gmail}>`, // sender address
         to,
         cc,
         bcc,
