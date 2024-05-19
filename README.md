@@ -8,7 +8,7 @@ This project features a fully working e-commerce app with no UI where users can 
 
 # Some Features (Pictures)
 
-<img src="https://github.com/AliAmr527/ECommerce-App/assets/131396543/c4718333-576f-4485-8cf5-67540ff35b84" width="200" height="400" />
+<img src="https://github.com/AliAmr527/ECommerce-App/assets/131396543/c4718333-576f-4485-8cf5-67540ff35b84" width="400" height="200" />
 
 ![email invoice](https://github.com/AliAmr527/ECommerce-App/assets/131396543/1076de78-5849-4945-a38a-545fec657006)
 
