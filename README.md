@@ -8,9 +8,13 @@ This project features a fully working e-commerce app with no UI where users can 
 
 # Some Features (Pictures)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![confirm your email](https://github.com/AliAmr527/ECommerce-App/assets/131396543/c4718333-576f-4485-8cf5-67540ff35b84)  |  ![email invoice](https://github.com/AliAmr527/ECommerce-App/assets/131396543/1076de78-5849-4945-a38a-545fec657006)
+
 <img src="https://github.com/AliAmr527/ECommerce-App/assets/131396543/c4718333-576f-4485-8cf5-67540ff35b84" width="400" height="200" />
 
-![email invoice](https://github.com/AliAmr527/ECommerce-App/assets/131396543/1076de78-5849-4945-a38a-545fec657006)
+
 
 ![thank you page](https://github.com/AliAmr527/ECommerce-App/assets/131396543/30aeeea4-f192-42d8-9eae-e21d2b47b09b)
 
